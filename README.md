@@ -6,6 +6,9 @@ This Repo isn't an official project but is used for study purposes.
 
 ## List Of Completed Chapters
   Chapter 1
+  
+## List Of Chapters In Progress
+  Chapter 2
 
 ## Author
 Jacob Rees:
