@@ -6,6 +6,7 @@ This Repo isn't an official project but is used for study purposes. This repo do
 
 ## List Of Completed Chapters (things in brackets are good things to remember from each chapter)
   Chapter 1 (How to use *require*)
+  
   Chapter 2 (Useful built in methods include *object_id?*, *respond_to?* & *send*)
   
 ## List Of Chapters In Progress
