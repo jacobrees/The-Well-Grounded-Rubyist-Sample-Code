@@ -10,6 +10,6 @@ class Person
     end
 end
 
-joe = Person.new
-joe.set_name
-puts joe.get_name
+new_person = Person.new
+new_person.set_name
+puts new_person.get_name
