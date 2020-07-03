@@ -10,7 +10,7 @@ This Repo isn't an official project but is used for study purposes. This repo do
   Chapter 2: Objects, methods and local variables (Useful built in methods include ***object_id?***, ***respond_to?*** & ***send***)
   
 ## List Of Chapters In Progress
-  Chapter 3: Organising objects with classes (Explains instance variables eg ***@name***. Explains attr_* methods eg ***attr_reader :name***  ***attr_setter :name***  ***attr_accessor :name*** )
+  Chapter 3: Organising objects with classes (Explains instance variables eg ***@name***. Explains attr_* methods eg ***attr_reader :name***,  ***attr_setter :name***,  ***attr_accessor :name*** )
 
 ## Author
 Jacob Rees:
