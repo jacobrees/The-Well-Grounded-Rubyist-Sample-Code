@@ -1,14 +1,11 @@
 class Person
-  attr_accessor :name
-  def give_name
-    puts "Please enter your name..."
-  end  
+  attr_accessor :name 
   def greeting
     puts "Hello #{@name}"
   end
 end
 
 person = Person.new
-person.give_name
+puts "Please enter your name..."
 person.name = gets.capitalize!
 person.greeting 
