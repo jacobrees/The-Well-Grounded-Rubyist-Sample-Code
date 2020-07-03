@@ -7,5 +7,5 @@ end
 
 person = Person.new
 puts "Please enter your name..."
-person.name = gets.capitalize!
+person.name = gets.capitalize
 person.greeting 
