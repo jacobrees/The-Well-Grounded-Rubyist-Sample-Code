@@ -12,7 +12,7 @@ This Repo isn't an official project but is used for study purposes. This repo do
   Chapter 3: Organising objects with classes (Explains instance variables eg ***@name***. Explains attr_* methods eg ***attr_reader :name***,  ***attr_setter :name***,  ***attr_accessor :name*** . Explains class methods & instance methods)
   
 ## List Of Chapters In Progress
-  Chapter 4: Modules and program organization ()
+  Chapter 4: Modules and program organization (How to use modules to express the design of a program)
 
 ## Author
 Jacob Rees:
