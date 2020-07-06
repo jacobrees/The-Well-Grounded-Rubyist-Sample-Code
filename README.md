@@ -12,7 +12,7 @@ This Repo isn't an official project but is used for study purposes. This repo do
   Chapter 3: Organising objects with classes (Explains instance variables eg ***@name***. Explains attr_* methods eg ***attr_reader :name***,  ***attr_setter :name***,  ***attr_accessor :name*** . In Ruby, an instance method provides functionality to an Object. A class method provides functionality to a class itself.)
   
 ## List Of Chapters In Progress
-  Chapter 4: Modules and program organization (How to use modules to express the design of a program. How to mix modules inside of a Class. The difference in using  ***include***, ***prepend*** & ***extend*** to mix in modules into classes. How to use ***super***)
+  Chapter 4: Modules and program organization (How to use modules to express the design of a program. How to mix modules inside of a Class. The difference in using  ***include***, ***prepend*** & ***extend*** to mix in modules into classes. How to use ***super*** & ***super_method***)
 
 ## Author
 Jacob Rees:
