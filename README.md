@@ -14,7 +14,7 @@ This Repo isn't an official project but is used for study purposes. This repo do
   Chapter 4: Modules and program organization (How to use modules to express the design of a program. How to mix modules inside of a Class. The difference in using  ***include***, ***prepend*** & ***extend*** to mix in modules into classes. How to use ***super*** , ***super_method*** & ***method_missing***)
   
 ## List Of Chapters In Progress
-  Chapter 5: The default object (self), scope, and visibility (How to use ***self***)
+  Chapter 5: The default object (self), scope, and visibility (How to use ***self*** . Determining scope)
 
 ## Author
 Jacob Rees:
