@@ -1,4 +1,4 @@
-# The-Well-Grounded-Rubyist-Sample-Code
+# The Well Grounded Rubyist Sample Code
 
 This Repo is used to store sample code from the book The Well Grounded Rubyist by David A Black (author), Joseph Leo (author).
 
