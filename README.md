@@ -16,7 +16,7 @@ This Repo isn't an official project but is used for study purposes. This repo do
   Chapter 5: The default object (self), scope, and visibility (How to use ***self*** . Determining scope . Defining method access rules such as private methods ***private*** & protected methods ***protected :x***)
   
 ## List Of Chapters In Progress
-
+  Chapter 6: Control-flow techniques ()
 
 ## Author
 Jacob Rees:
