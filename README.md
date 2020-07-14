@@ -15,8 +15,10 @@ This Repo isn't an official project but is used for study purposes. This repo do
   
   Chapter 5: The default object (self), scope, and visibility (How to use ***self*** . Determining scope . Defining method access rules such as private methods ***private*** & protected methods ***protected :x***)
   
+  Chapter 6: Control-flow techniques (This chapter covers Conditional execution ***if/unless*** , ***case/when*** , Loops and looping techniques ***loop*** ,  ***for*** , ***while*** & ***until*** , Iterators , Exceptions and error handling.)
+  
 ## List Of Chapters In Progress
-  Chapter 6: Control-flow techniques (This chapter covers Conditional execution, Loops and looping techniques, Iterators, Exceptions and error handling.)
+  Chapter 7: Built-in classes and modules ()
 
 ## Author
 Jacob Rees:
