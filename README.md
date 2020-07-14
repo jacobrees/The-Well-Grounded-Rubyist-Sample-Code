@@ -18,7 +18,7 @@ This Repo isn't an official project but is used for study purposes. This repo do
   Chapter 6: Control-flow techniques (This chapter covers Conditional execution ***if/unless*** , ***case/when*** , Loops and looping techniques ***loop*** ,  ***for*** , ***while*** & ***until*** , Iterators , Exceptions and error handling.)
   
 ## List Of Chapters In Progress
-  Chapter 7: Built-in classes and modules ()
+  Chapter 7: Built-in essentials ()
 
 ## Author
 Jacob Rees:
