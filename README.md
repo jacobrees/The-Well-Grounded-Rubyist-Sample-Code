@@ -18,7 +18,7 @@ This Repo isn't an official project but is used for study purposes. This repo do
   Chapter 6: Control-flow techniques (This chapter covers Conditional execution ***if/unless*** , ***case/when*** , Loops and looping techniques ***loop*** ,  ***for*** , ***while*** & ***until*** , Iterators , Exceptions and error handling.)
   
 ## List Of Chapters In Progress
-  Chapter 7: Built-in essentials (This chapter describes the useful Methods and Classes built into ruby)
+  Chapter 7: Built-in essentials (This chapter describes the built-in essentials of ruby, this chapter moves through Literal Constructors, Syntactic Sugar, Dangerous And/Or Destructive Methods, Boolean States, Object-Comparison Techniques, Runtime Inspection Of Objects' Capabilities)
 
 ## Author
 Jacob Rees:
