@@ -1,3 +1,4 @@
+ #Struct is a shorthand way of creating a class with read/write attriutes
 Computer = Struct.new(:os, :manufacturer)
 laptop1 = Computer.new("linux", "Lenovo")
 laptop2 = Computer.new("os x", "Apple")
