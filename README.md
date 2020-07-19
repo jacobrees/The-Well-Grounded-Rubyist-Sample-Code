@@ -22,7 +22,7 @@ This Repo isn't an official project but is used for study purposes. This repo do
   Chapter 8: Strings, symbols, and otherscalar objects (This chatper covers String object creation and manipulation, Methods for transforming strings, The workings of symbols, String/symbol comparison, Time and date objects)
   
 ## List Of Chapters In Progress
-  Chapter 9: ()
+  Chapter 9: Collection and container objects ()
 
 ## Author
 Jacob Rees:
