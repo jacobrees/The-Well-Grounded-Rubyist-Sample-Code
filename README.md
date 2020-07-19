@@ -19,8 +19,10 @@ This Repo isn't an official project but is used for study purposes. This repo do
 
   Chapter 7: Built-in essentials (This chapter moves through Literal Constructors, Syntactic Sugar, Dangerous And/Or Destructive Methods, Boolean States, Object-Comparison Techniques, Runtime Inspection Of Objects' Capabilities)
   
-## List Of Chapters In Progress
   Chapter 8: Strings, symbols, and otherscalar objects (This chatper covers String object creation and manipulation, Methods for transforming strings, The workings of symbols, String/symbol comparison, Time and date objects)
+  
+## List Of Chapters In Progress
+  Chapter 9: ()
 
 ## Author
 Jacob Rees:
