@@ -22,7 +22,7 @@ This Repo isn't an official project but is used for study purposes. This repo do
   Chapter 8: Strings, symbols, and otherscalar objects (This chatper covers String object creation and manipulation, Methods for transforming strings, The workings of symbols, String/symbol comparison, Time and date objects)
   
 ## List Of Chapters In Progress
-  Chapter 9: Collection and container objects ()
+  Chapter 9: Collection and container objects (This chapter covers Sequentially ordered collections with arrays, Keyed collections with hashes, Inclusion and membership tests with ranges, Unqique, unordered collections with sets, Named arguments using hash syntax)
 
 ## Author
 Jacob Rees:
