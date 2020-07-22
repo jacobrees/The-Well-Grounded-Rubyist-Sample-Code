@@ -24,7 +24,7 @@ This Repo isn't an official project but is used for study purposes. This repo do
   Chapter 9: Collection and container objects (This chapter covers Sequentially ordered collections with arrays, Keyed collections with hashes, Inclusion and membership tests with ranges, Unique, unordered collections with sets, Named arguments using hash syntax)
   
 ## List Of Chapters In Progress
-  Chapter 10:  ()
+  Chapter 10: Collections central: Enumerable and Enumerator ()
 
 ## Author
 Jacob Rees:
