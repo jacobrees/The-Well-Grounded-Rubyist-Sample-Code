@@ -16,9 +16,15 @@ This Repo isn't an official project but is used for study purposes. This repo do
   Chapter 5: The default object (self), scope, and visibility (How to use ***self*** . Determining scope . Defining method access rules such as private methods ***private*** & protected methods ***protected :x***)
   
   Chapter 6: Control-flow techniques (This chapter covers Conditional execution ***if/unless*** , ***case/when*** , Loops and looping techniques ***loop*** ,  ***for*** , ***while*** & ***until*** , Iterators , Exceptions and error handling.)
+
+  Chapter 7: Built-in essentials (This chapter moves through Literal Constructors, Syntactic Sugar, Dangerous And/Or Destructive Methods, Boolean States, Object-Comparison Techniques, Runtime Inspection Of Objects' Capabilities)
+  
+  Chapter 8: Strings, symbols, and otherscalar objects (This chatper covers String object creation and manipulation, Methods for transforming strings, The workings of symbols, String/symbol comparison, Time and date objects)
+  
+  Chapter 9: Collection and container objects (This chapter covers Sequentially ordered collections with arrays, Keyed collections with hashes, Inclusion and membership tests with ranges, Unique, unordered collections with sets, Named arguments using hash syntax)
   
 ## List Of Chapters In Progress
-  Chapter 7: Built-in essentials (This chapter describes the built-in essentials of ruby, this chapter moves through Literal Constructors, Syntactic Sugar, Dangerous And/Or Destructive Methods, Boolean States, Object-Comparison Techniques, Runtime Inspection Of Objects' Capabilities)
+  Chapter 10: Collections central: Enumerable and Enumerator (This chapter covers Mixing Enumerable into your classes, The use of Enumerable methods in collection objects, Strings as quasi-enumerable objects, Sorting enumerables with the Comparable module, Enumerators)
 
 ## Author
 Jacob Rees:
