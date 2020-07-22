@@ -15,3 +15,6 @@ r = Rainbow.new
 r.each do |color|
     puts "Next color: #{color}"
 end
+
+y_color = r.find {|color| color.start_with?("y")}
+puts "First color starting with 'y' is #{y_color}"
